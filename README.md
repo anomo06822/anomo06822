@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 #### LeetCode
-![Leetcode Stats](https://leetcard.jacoblin.cool/anomo/)?theme=nord
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/anomo?ext=heatmap)
